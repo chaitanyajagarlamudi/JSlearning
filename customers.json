@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name":"chaitanya",
+        "phone": "222-333-4567",
+        "adress": "6650 w warms springs road"
+    
+    },
+    {
+        "id": 2,
+        "name":"jagar",
+        "phone": "122-393-4545",
+        "adress": "6650 w warms springs road"
+    
+    },
+    {
+        "id": 1,
+        "name":"ramana",
+        "phone": "222-333-4567",
+        "adress": "6650 w warms springs road"
+    
+    }
+]
